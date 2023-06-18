@@ -1,6 +1,9 @@
 #include <stdio.h>
 /**
-*return value 0 indicates successful program termination 
+* main - Entry point
+*Return: Always 0 (Success)
+*Return always 0 indicates sucessful program execution 
+*Return value 0 indicates successful program termination  
 *prints sizes of various variable types in C
 */
 int main(void)
